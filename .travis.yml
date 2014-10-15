@@ -8,5 +8,3 @@ addons:
 before_script:
   - psql -c 'create database threeSentences_test;' -U postgres
   - bin/rake db:create db:migrate
-
-script: bundle exec rspec spec
