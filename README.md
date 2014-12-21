@@ -3,6 +3,8 @@ Three Sentences ![travis-ci-status](https://travis-ci.org/woolly-bear-caterpilla
 
 If you can write [three sentences](http://threesentences.herokuapp.com), you can write a story.
 
+![screen shot](threesentences.png "Screen image")
+
 ## Writing is Fun... Once You Get Started
 
 You have a story idea rattling around in your head. You're all to set to write the next great book, screenplay, whatever. Great. But where do you start?
@@ -46,5 +48,5 @@ rails s
 * [Joseph White](https://github.com/jbwhite)
 * [Alexei Pesic](https://github.com/apesic)
 
-The four of us are currently attending [DevBootcamp](http://devbootcamp.com) in NYC. Three Sentences is our final project. We hope you find it useful and fun. Happy writing!
+The four of us attended [DevBootcamp](http://devbootcamp.com) in NYC. Three Sentences was our final project. We hope you find it useful and fun. Happy writing!
 
