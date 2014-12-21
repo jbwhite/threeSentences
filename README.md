@@ -5,6 +5,8 @@ If you can write [three sentences](http://threesentences.herokuapp.com), you can
 
 ![screen shot](threesentences.png "Screen image")
 
+http://threesentences.herokuapp.com/
+
 ## Writing is Fun... Once You Get Started
 
 You have a story idea rattling around in your head. You're all to set to write the next great book, screenplay, whatever. Great. But where do you start?
